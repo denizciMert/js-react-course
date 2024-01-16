@@ -1,0 +1,30 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #00000098;
+    z-index: 10;
+    text-align: center;
+    font-size: 3rem;
+    color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+}
+
+.content {
+    padding-top: 7rem;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    right: 0;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    background-color: #0000009a;
+    font-size: 1rem;
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+}

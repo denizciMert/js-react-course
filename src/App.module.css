@@ -1,0 +1,40 @@
+.App{
+  text-align: center;
+  color: whitesmoke;
+  font-family: 'Roboto', sans-serif;
+}
+.page-title{
+    position: fixed;
+    left: 0;
+    right: 0;
+    top:10px;
+    text-align: center;
+    background-color: #1b1b1b;
+    font-size: .7rem;
+}
+
+button {
+  background-color: #0000002d;
+  color: whitesmoke;
+  border-width: thin;
+  border-color: #2a0e31;
+  padding: 0.3rem 1rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1rem;
+  margin: .4rem .2rem;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 1.8rem;
+  font-family: 'Roboto', sans-serif;
+}
+
+button:hover {
+  background-color: #311642;
+  color: white;
+}
+
+body{
+    background: linear-gradient(to left, #122841 0%, #340355 50%, #122841 100%);
+}
